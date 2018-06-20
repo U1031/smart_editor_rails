@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   # s.test_files = Dir["test/**/*"]
 
 #   s.add_dependency "rails", "~> 4.0.0.rc1"
-  s.add_dependency "rails", "~> 5.1.5"
+  s.add_dependency "rails", "~> 5.2.0"
   s.add_dependency "carrierwave"
   s.add_dependency "jquery-rails"
   s.add_runtime_dependency 'execjs'
